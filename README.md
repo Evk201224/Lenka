@@ -1,11 +1,3 @@
+# LenkaMatch — Final Production Version
 
-# LenkaMatch - Final Deploy Version
-
-Fully functional job matching platform built with Next.js, Firebase, and live job sourcing from LinkedIn, Indeed, and Remotive.io.
-Includes:
-- Google Auth via Firebase
-- Resume upload & parsing
-- Real-time job fetching
-- Cover letter generation
-- Resume adaptation
-- PDF export
+Real-time resume matcher with real job fetching, PDF generation, and Google Auth.
